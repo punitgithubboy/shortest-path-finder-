@@ -4,29 +4,29 @@ A **web application** designed to visualize pathfinding algorithms like **Breadt
 
 ---
 
-## Features 🚀
+## Features 
 
 ### Pathfinding Algorithms:
-- 🔗 **BFS (Breadth-First Search)**: Explores all possible paths layer by layer.
-- ⭐ **A* (A-Star)**: Combines path cost with heuristics for efficient pathfinding.
+-  **BFS (Breadth-First Search)**: Explores all possible paths layer by layer.
+-  **A* (A-Star)**: Combines path cost with heuristics for efficient pathfinding.
 
 ### Traversal Options:
-- 🔄 **Non-Diagonal Traversal**: Moves in four directions.
-- ⬉ **Diagonal Traversal**: Adds diagonal movements.
+-  **Non-Diagonal Traversal**: Moves in four directions.
+-  **Diagonal Traversal**: Adds diagonal movements.
 
 ### Heuristics for A*:
-- 📏 **Manhattan Distance**: Suitable for non-diagonal paths.
-- 🟨 **Diagonal Distance**: Includes diagonal traversal.
-- 📐 **Euclidean Distance**: Uses straight-line distance for calculations.
+-  **Manhattan Distance**: Suitable for non-diagonal paths.
+-  **Diagonal Distance**: Includes diagonal traversal.
+-  **Euclidean Distance**: Uses straight-line distance for calculations.
 
 ### Interactive Grid:
-- 🟩 **Add Walls**: Place obstacles to simulate real-world scenarios.
-- 📍 **Start and Destination Nodes**:
+- **Add Walls**: Place obstacles to simulate real-world scenarios.
+- **Start and Destination Nodes**:
   - Start Node: Green
   - Destination Node: Blue
-- 🔍 **Visualization**:
+-  **Visualization**:
   - Watch visited nodes and the shortest path animate on the grid.
-- 🔄 **Reset Grid**: Clear walls, paths, and start afresh.
+-  **Reset Grid**: Clear walls, paths, and start afresh.
 
 ---
 
@@ -90,10 +90,10 @@ A **web application** designed to visualize pathfinding algorithms like **Breadt
 
 ## Future Enhancements ✨
 
-- 🛡 **Additional Algorithms**: Add Dijkstra’s Algorithm and Greedy Best-First Search.
-- 📱 **Mobile Compatibility**: Improve responsiveness for mobile devices.
-- 📊 **Performance Metrics**: Show runtime and steps taken by each algorithm.
-- 🔍 **Custom Grid Size**: Allow users to adjust grid dimensions.
+- **Additional Algorithms**: Add Dijkstra’s Algorithm and Greedy Best-First Search.
+- **Mobile Compatibility**: Improve responsiveness for mobile devices.
+- **Performance Metrics**: Show runtime and steps taken by each algorithm.
+- **Custom Grid Size**: Allow users to adjust grid dimensions.
 
 ---
 
